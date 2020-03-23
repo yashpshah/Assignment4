@@ -1,0 +1,21 @@
+table.bordered-table th, td 
+{
+    border: 1px solid silver; 
+    padding: 8px;
+} 
+
+table.bordered-table
+{
+    border-collapse: collapse;
+}
+
+.categorystyle{
+    width: 160px;
+    height: 25px;
+}
+.formstyle{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-right: 200px;
+}
